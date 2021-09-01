@@ -1,0 +1,8 @@
+[info] Test run started
+[info] Test snake.SnakeSuit.test1 started
+[debug] Test snake.SnakeSuit.test1 finished, took 0.021 sec
+[info] Test snake.SnakeSuit.test2 started
+[debug] Test snake.SnakeSuit.test2 finished, took 0.014 sec
+[info] Test snake.SnakeSuit.test3 started
+[debug] Test snake.SnakeSuit.test3 finished, took 0.002 sec
+[info] Test run finished: 0 failed, 0 ignored, 3 total, 0.048s

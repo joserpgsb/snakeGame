@@ -1,0 +1,5 @@
+[debug] Running TaskDef(snake.SnakeSuit, com.novocode.junit.JUnitFingerprint@5e7f3bf3, false, [SuiteSelector])
+[debug] Summary for JUnit not available.
+[info] Passed: Total 3, Failed 0, Errors 0, Passed 3
+[debug] Passed tests:
+[debug] 	snake.SnakeSuit
