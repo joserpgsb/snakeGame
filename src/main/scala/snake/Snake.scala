@@ -16,6 +16,10 @@ object Snake extends SnakeInterface {
     board
   }
 
+  def numberOfAvailableDifferentPaths(board:Board, snake:BodySnake, depth:Int):Int={
+    differentPaths(board,snake,depth).length
+  }
+
   def differentPaths(board:Board, snake:BodySnake, depth:Int):Seq[Path]={
     def differentPathsAux(board:Board, bodySnake:BodySnake, depth:Int, movements:Seq[Char]):Seq[Path]={
       if (depth <= 0) {
